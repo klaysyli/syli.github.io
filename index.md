@@ -3,48 +3,38 @@ layout: default
 title: Shanyi Li
 ---
 
-# Zaitang Li, Ph.D. Candidate  
+# Shanyi Li, Ph.D. Candidate  
 **Computer Science and Engineering**  
 The Chinese University of Hong Kong  
 
 ---
 
 ## About Me
-I am a Ph.D. candidate in Computer Science and Engineering at The Chinese University of Hong Kong (CUHK). I am advised by Prof. Tsung-Yi Ho and co-supervised by Dr. Pin-Yu Chen from IBM. My research focuses on **trustworthiness in Large Language Models (LLMs)**, including robustness evaluation, jailbreak risk quantification, and adversarial perturbation analysis.  
+I am a Ph.D. candidate in Computer Science and Engineering at The Chinese University of Hong Kong (CUHK). I am advised by Prof. Tsung-Yi Ho. 
 
 ---
 
 ## Research Interests
-- Trustworthy AI  
-- Robustness Evaluation of LLMs  
-- Adversarial Machine Learning  
-- Knowledge Graphs and Text Generation  
-
----
-
-## News
-- **[2024-09]** Our paper *"GREAT Score: Global Robustness Evaluation of Adversarial Perturbation using Generative Models"* was accepted at **NeurIPS 2024**!  
-- **[2024-12]** Our paper *"Retention Score: Quantifying Jailbreak Risks for Vision Language Models"* was accepted at **AAAI 2025**!  
+- 3D-IC 
+- Advanced Packaging  
+- RTL Simulation and Debugging  
 
 ---
 
 ## Publications
-### Conference Proceedings
-1. **Z. Li**, P.-Y. Chen, and T.-Y. Ho, "Retention Score: Quantifying Jailbreak Risks for Vision Language Models," in *AAAI 2025*.  
-2. **Z. Li**, P.-Y. Chen, and T.-Y. Ho, "GREAT Score: Global Robustness Evaluation of Adversarial Perturbation using Generative Models," in *NeurIPS 2024*.  
+
+1. **Shanyi Li**, Zhen Zhuang, Siyuan Liang, Bei Yu, Tsung-Yi Ho, “MMPack: Multi-Mask Co-Design for Ultra-Large Wafer-Scale Package Integration”, in *ICCAD 2025*.  
+2. **Shanyi Li**, Zhen Zhuang, Mingyu Liu, Weihua Sheng, Bei Yu, Tsung-Yi Ho, “HiePlace: Efficient Hierarchical PCB Placement”, *TCAD 2025*.  
 
 ---
 
 ## Education
-- **Ph.D. in Computer Science and Engineering** (Expected 2026)  
+- **Ph.D. in Computer Science and Engineering** (Expected 2027)  
   The Chinese University of Hong Kong (CUHK)  
-- **B.Sc. in Math and Information Engineering** (2022)  
-  The Chinese University of Hong Kong (CUHK), *First Honor*, Minor: Statistics  
+- **B.Sc. in Computer Science and Technology** (2019)  
+  Tsinghua University (THU)
 
 ---
 
 ## Contact
-- **Email**: [1155107739@link.cuhk.edu.hk](mailto:1155107739@link.cuhk.edu.hk)  
-- **Google Scholar**: [Zaitang Li](https://scholar.google.com/citations?user=nPGJNbgAAAAJ&hl=en)  
-- **GitHub**: [lizaitang](https://github.com/lizaitang)  
-- **Personal Website**: [https://lizaitang.github.io](https://lizaitang.github.io)  
+- **Email**: [syli@link.cuhk.edu.hk](mailto:syli@link.cuhk.edu.hk)  
